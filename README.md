@@ -1,1 +1,1 @@
-"# Testing some maven and git features"
+# Testing some maven and git features
